@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
+
+*{
+  font-family: 'Montaga', serif;
+}
+
+.main-header{
+  background-color: black !important;
+}
+.head-link a{
+  color:white !important;
+  font-weight: 600;
+}
+
+.head-link a:hover{
+  text-decoration: none;
+}
+
+img{
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
+.modal-button:active,.modal-button:focus{
+  border: none;
+}
